@@ -6,3 +6,5 @@ rm -rf .git
 sed -i -e s/study-starter/<project_name>/ package.json
 npm i
 ```
+
+change README.md
